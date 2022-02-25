@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The State prodigal his return coming a true state of the nation, in a letter to a friend.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61353</idno>
+            <idno type="STC">Wing S5326</idno>
+            <idno type="STC">ESTC R184608</idno>
+            <idno type="EEBO-CITATION">12279634</idno>
+            <idno type="OCLC">ocm 12279634</idno>
+            <idno type="VID">58642</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61353)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58642)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 899:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The State prodigal his return coming a true state of the nation, in a letter to a friend.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  1689-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:58642:1" rendition="simple:additions"/>
+            <head>The <hi>State-Prodigal</hi> his <hi>Return;</hi> Containing a true <hi>State</hi> of the <hi>Nation.</hi> In a <hi>Letter</hi> to a <hi>Friend.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am not aſham'd to own I am a <hi>Convert,</hi> when the Arguments are ſo plain and convincing to which I have ſubmitted my Judgement: For I muſt tell you, freely, I ſee little or nothing performed of what was pro<g ref="char:EOLhyphen"/>mis'd us, but worſe things done than thoſe that offended us; and I know not how to perſwade my ſelf, that a Gentleman, of your Sincerity and good Senſe, can reſiſt the Authorities I ſhall bring for my Converſion.</p>
+            <p>I need not tell you what my hopes were of the good Effects of the coming of the <hi>Prince</hi> of <hi>Orange;</hi> what an Idea I had fram'd to my ſelf of <hi>England</hi>'s happineſs upon it and what pains I took to quiet ſome, and engage others into the ſame Sentiments and Expectation with my ſelf: I ſay, I need not tell you this, ſince it is what you every Day reproach me with, when you ſeem to wonder I am now of another Opinion. That which is the buſineſs of this Letter, is to ſatisfie you in the reaſon of my Change, and that I am in the Right, as they muſt always be, whoſe Judgments are governed more by Things than Men.</p>
+            <p>Firſt, Sir, It is plain the <hi>Prince</hi> of <hi>Orange</hi> has now made himſelf <hi>King;</hi> and it is as plain he never pretended to the Crown. Under this the Nation has laboured, ſtill does, and is like to do, you ſee; for it brings heavy burthens up<g ref="char:EOLhyphen"/>on our Backs, beſides the ſtroakes of our own Conſciences. It is a pernitious and fatal hardſhip he puts upon us, and which had no neceſſary relation to the Security of the Proteſtant Religion; on the contrary, it has raiſed Ob<g ref="char:EOLhyphen"/>jections upon us, that we are not able to Anſwer. You know how ſullenly he refuſed to be <hi>Regent,</hi> or that his <hi>Wife</hi> ſhould have Succeeded to the Crown; which was yet farther than any True Son of our Church ever in<g ref="char:EOLhyphen"/>tended by his coming hither, or he was promiſed, or had the Confidence to propoſe: For all we aimed at, <hi>Was to ſecure our Religion, ſettle good Alliances, and follow him to</hi> France, that <hi>we</hi> might be ſafe from <hi>Popery,</hi> and <hi>Europe</hi> from <hi>War:</hi> Not to thruſt out our King, ſet by his Chil<g ref="char:EOLhyphen"/>dren, and be King in his room. So that to be free with you Sir, I take the very Foundation of this New Fabric to be Rotten; therefore look you well to your hits, for ſuch a Building cannot ſtand long.</p>
+            <p n="2">2. But, Sir. As Monſtrous and Unnatural as the thing it ſelf looks to a juſt Eye, the Methods taken to accompliſh it, have ſomething Blacker in them. I will begin, if you pleaſe, with that which was the Beginning of the Buſi<g ref="char:EOLhyphen"/>neſs, that is, the <hi>Corrupting the King's Servants and Offi<g ref="char:EOLhyphen"/>cers from their Truth and Duty to him, as their Master and King.</hi> I need not prove to you that <hi>Treachery</hi> has in all Times, and Places, been reputed the moſt infamous of Crimes; but of that alſo there is degrees, and this. if I fail not is of the fouleſt ſort, whether we conſider the <hi>In<g ref="char:EOLhyphen"/>ſtruments,</hi> or <hi>thoſe</hi> that ſet them to work. The firſt were ſuch as he had <hi>created</hi> (for ſo Divines ſpeak; <hi>When a thing is made out of nothing.</hi>) They owed the very <hi>Being</hi> of their Fortune to <hi>King Jam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> yet carried away their <hi>Homage</hi> to a <hi>Stranger:</hi> They <hi>Revealed his Secrets, adviſed his Errors, and betrayed his Arms.</hi> Thus much, and much too little too, for thoſe Inſtruments of this happy Change. Now, Sir, for the <hi>Employers,</hi> I could wiſh they came from a far Country, and a Barbarous People, ſuch as have never read the Ten Commandment, nor been taught the Goſ<g ref="char:EOLhyphen"/>pel, or, at leaſt, that they had been ſome injured Strang<g ref="char:EOLhyphen"/>ers, who had owed no Duty to our <hi>Blood:</hi> But alas, Sir! It was a <hi>Nephew</hi> againſt his <hi>
+                  <g ref="char:V">Ʋ</g>ncle; Daughters</hi> againſt <hi>their Father; Siſters</hi> againſt <hi>their Brother;</hi> and at laſt, a <hi>Husband</hi> againſt his <hi>Wife.</hi> Are there nearer Relations? Are there ſtronger Ties? And have not theſe been publickly vio<g ref="char:EOLhyphen"/>lated, and that <hi>with Solemnity?</hi> what truſt, Sir, can there be in thoſe to whom ſuch Obligations are no longer Sa<g ref="char:EOLhyphen"/>cred? It leſſens, though it can never excuſe the Guilt of the <hi>Acceſſaries,</hi> that they had ſuch <hi>Principals,</hi> according to the Poet traveſt'd;
+<q>
+                  <l>
+                     <hi>If</hi> Tom <hi>ſuch Curſes have,</hi>
+                  </l>
+                  <l>
+                     <hi>What ſhall they that</hi> make <hi>the</hi> Knave?</l>
+               </q> In the mean time, the pretended Preſervation of the <hi>Pro<g ref="char:EOLhyphen"/>teſtant Religion,</hi> has already loſt us <hi>Two</hi> of the Command<g ref="char:EOLhyphen"/>ments, whilſt we have not only <hi>Coveted</hi> what was our Neigh<g ref="char:EOLhyphen"/>bours, <hi>But what was our Fathers too,</hi> and that in a manner the moſt Diſhonourable: Surely this cannot be the way to live long in the Land that they have taken away from him, unleſs it be, becauſe, <hi>It is not the Land the Lord their God has given them.</hi> So far for Corruption and Treachery.</p>
+            <p n="3">3. The next Artifice which was made uſe of, to bring this Buſineſs about, was, you may remember, ſeveral vile Things charged upon the King; ſuch as the <hi>Murther of his Brother, and my Lord of</hi> Eſſex; <hi>A League with</hi> France, <hi>and a falſe Child;</hi> theſe were induſtriouſly ſpread to diſ<g ref="char:EOLhyphen"/>ſolve the Affections and Duty of the People, and pre<g ref="char:EOLhyphen"/>pare them for a New Maſter. But the Accuſers have not only waved the Proof, but think it unreaſonable in us to expect it at their hands, when themſelves never believed it; and laugh at us that we did not underſtand them ſoever. As for the <hi>Murthers</hi> they are neglected by the worſt of his Enemies, not to ſay oppoſed: They think the pretended Evidence too groſs for them to hope they can ever dreſs it into any ſort of probability. The <hi>League,</hi> ſo much hated and ſpoken of, and which we were told the <hi>Prince</hi> of <hi>Orange</hi> had in his keeping, and had ſhown to <hi>Colonel Strangewayes</hi> of <hi>Dorſetſhire,</hi> at <hi>Sherbourn</hi>-Caſtle, was doubtleſs left by the way; for we have heard nothing of it ſince. But this puts me in mind of what a Gentleman told us, ſince this Revolution upon this Subject, <hi>viz.</hi> 
+               <q>That the King was not only not in a League with <hi>France,</hi> but refuſed to be ſo, when invited by that King, and reject<g ref="char:EOLhyphen"/>ed the Aids he offered him by Sea and Land in <hi>August</hi> laſt was a Year, againſt this very Deſign; not giving Credit to C. <hi>d' Avaux</hi>'s adviſes to Mr. <hi>Barillon</hi> about the Preparations of the <hi>Prince</hi> of <hi>Orange,</hi> as thinking it too Barbarous a Thing for the Prince to be guilty of, and but a Trick of <hi>d' Avaux</hi> to draw him into his Ma<g ref="char:EOLhyphen"/>ſters Intereſt and Quarrel againſt the Empire.</q> And this ſome challenge the preſent Objectors upon, and will prove it unto the Wo<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>, if they may be allowed to do it, without injury to themſelves. Which ſhews us he had a little more Charity for his Son-in-Law, than he has found from him; for it's evident he loſt his Crown for want of that very League, which ſome Men pretend <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for a Reaſon to deprive him. Nor can he ev<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> now be ſaid to be in the Intereſt of <hi>France,</hi> but <hi>France</hi> generouſly in his<g ref="char:punc">▪</g> and what underſtanding there is be<g ref="char:EOLhyphen"/>tween them, we are to thank our ſelves for: <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> drove h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m to it, and he could do no leſsed But <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.
+<pb n="2" facs="tcp:58642:2"/>have owed his return wholly to the Arms of <hi>France,</hi> it is not improbable but he might have been here long ſince; but that ſeems an Honour, chiefly, reſerved by him to the Valour and Juſtice of his own Subjects. And as for the <hi>falſe Child,</hi> you know as well as I, it was the Town talk that the Prince had brought over the <hi>True Mother;</hi> but for what we yet ſee, ſhe is run away with the <hi>League,</hi> the one being as in<g ref="char:EOLhyphen"/>viſible as the other. However, Sir let me ſay, that to pretend to come hither to Preſerve the Succeſſion of his Wife againſt a falſe Prince of <hi>Wales,</hi> and neither ſhew us he is ſo, nor ſuffer his Princeſs to come in his Place, but thruſt himſelf in the room of that very Prince of <hi>Wales,</hi> and take the Crown and ſo break that Succeſſion, <hi>he pretended,</hi> he came to Preſerve in<g ref="char:EOLhyphen"/>violable has ſomething in it that raiſes Horror in the Minds of Men of Honour and Principles; having thereby done what he pretended to come on purpoſe to hinder. This Story were hardly credible of a Reformer, but by a juſt reflection upon former Actions and Morals, eſpecially the <hi>Battle</hi> of St. <hi>Dennis,</hi> fought with the <hi>Articles of Peace ſigned in his Pocket;</hi> the Murther of the <hi>de Wits,</hi> with the <hi>Pardon and Rewards of thoſe that Aſſaſſinated them;</hi> and the preſent State of the Liberties of Poor <hi>Holland.</hi> This, Sir, what<g ref="char:EOLhyphen"/>ever you think, is ſaid to be the true Character of your renowned Reformer. They that can bring themſelves to ſwallow this, to palliate this, and ſet up with this, have paſſed the <hi>Rubicon,</hi> to whom there is nothing more to be ſaid, <hi>Then God have Mercy upon their Souls.</hi>
+            </p>
+            <p n="4">4. But as theſe Slanders were uſed to Blacken the King, and Diſſolve our Affections firſt, and then our Allegiance to him, the ſame Gentlemen, out of their plentiful Mint, have ſent forth many other Stories with as little Truth, and not much leſs Calumny, to render the Change Wel<g ref="char:EOLhyphen"/>come, and the Authors of it as ſo many Saviours to the Nation. Such was the Ship-load of <hi>New-faſhioned Knives,</hi> opportunely taken by the <hi>Prince</hi> of <hi>Orange</hi> when he land<g ref="char:EOLhyphen"/>ed in the <hi>Weſt,</hi> and brought out of the <hi>French</hi> Forge to cut our Throats; but by ſome accident or other were ne<g ref="char:EOLhyphen"/>ver ſeen ſince. Next, The <hi>Proteſtant Bridles,</hi> for ſuch to wear as would not turn Papiſt. Then the <hi>Clerkenrvel Gridivons,</hi> to carbanado, or broyl Proteſtants, diſcovered by an eſpecial providence, though at laſt they proved, to be nothing but Caſements for Windows. The <hi>Iriſh Burn<g ref="char:EOLhyphen"/>ing</hi> the Towns, and <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſtering</hi> the People was a Profitable Invention, for it work'd Wonders. How induſtriouſly this Story was ſpread all over the Nation, and with what contrivance, every one remembers, ſince there was not a Town of any Note in the Kingdom that was not Alarm'd by <hi>Sham Letters,</hi> with the ſame News, at almoſt <hi>one and the ſame time.</hi> The ſame Report was in <hi>Ireland,</hi> and put the Fooliſh <hi>Engliſh</hi> there upon Practiſes, that brought them under the ſtroke'of the Government, and conſe<g ref="char:EOLhyphen"/>quently into all the Inconveniences that have attended them ever ſince. One would have thought that theſe Impo<g ref="char:EOLhyphen"/>stures had been a ſufficient caution for the future: but Experience tells us, that Lyes are <hi>Bails,</hi> we never re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſe. Therefore to keep us from looking back, and prevent our returning to our King, he muſt be <hi>Dead,</hi> ay that he was, and a certain Captain was to ſay, <hi>He ſaw him laid in his Coffin too.</hi> After that he was <hi>Mad,</hi> and another gave a Guin<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to ſee him <hi>Rave,</hi> through a key-hole at St. <hi>Ger<g ref="char:EOLhyphen"/>mains,</hi> all which it is plain, was to <hi>b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſl</hi> the World about the belief of his being Landed in <hi>Ireland,</hi> leſt his Peoples Hearts ſhould <hi>melt,</hi> and they come back to their Duty and run to him.</p>
+            <p>Shall I add <hi>Mackay</hi>'s great Victory; the <hi>London derry</hi> Divers; the invincible Boom, and then no Boom; the <hi>Seventy odd thouſand Iriſh men</hi> killed before <hi>London-derry,</hi> which were Three times more than ever were there; the <hi>Iriſh</hi> Proteſtants ſurpriſing <hi>Dublin,</hi> the Duels between the <hi>French</hi> and <hi>Iriſh;</hi> their killing the <hi>French</hi> Officers at the head of the Camp by <hi>Dublin,</hi> and Fourteen Thou<g ref="char:EOLhyphen"/>ſand of them deſerting the King thereupon: That <hi>Admi<g ref="char:EOLhyphen"/>ral Herbert</hi> had taken <hi>King-ſale;</hi> and the King was gone for <hi>Limrick,</hi> in order to abdicate and run away for <hi>France:</hi> And laſt of all, the repeated Wonders of the <hi>Inniskilling-men,</hi> beyond <hi>Bevis</hi> of <hi>Northampton,</hi> or the Stories of the <hi>Giants,</hi> or any thing elſe but <hi>Honeſt Doctor</hi> Walker's <hi>Le<g ref="char:EOLhyphen"/>gend of</hi> London-derry. It will not be very improper to mention here the Diſingenious Practiſes of the <hi>State News Writers,</hi> and that in diverſe reſpects. Firſt, In diminiſh<g ref="char:EOLhyphen"/>ing of Things againſt them, as in the Caſe of the <hi>Viſ<g ref="char:EOLhyphen"/>count of Dundee,</hi> that he had but Twenty Men when he had Five hundred, that he had but a few Hundreds, and in vain endeavoured to raiſe the <hi>Highlanders,</hi> when the next day he was allowed to have Six thouſand, becauſe he had beaten <hi>Mackay,</hi> when in Truth he had not Two thouſand Men, and <hi>Mackay</hi> had above Four thouſand: And then that <hi>Mackay</hi> came to <hi>Sterling</hi> with Fifteen hun<g ref="char:EOLhyphen"/>dred Men in very good Order, who did not bring Six with him, nor himſelf in any good Order; a more com<g ref="char:EOLhyphen"/>pleat Victory having never been obtained, the odds and number conſidered. You are as happy in concealing. We are to know nothing of the baffle we received from the <hi>French</hi> at <hi>Bantry-bay,</hi> where your great <hi>Herbert</hi> run away from the <hi>French Admiral,</hi> juſt as your great <hi>Mackay</hi> did from my Lord <hi>Dundee.</hi> You will not let us know of one Ship that is taken by the <hi>French,</hi> though the moſt pitiful Veſſel we take from them is to have a place in the <hi>Gazene.</hi> Yet it is certain we have loſt Four hundred Sail of Ships, which are worth a Million, and Four thouſand Sea-men, which cannot be valued, and that in ſpite of your Admiral <hi>Herbert</hi> with his Fleet, that has coſt you a Million and a half to guard the Channel and and preſerve the Trade of the Kingdom. Nor are we to have one Word of the <hi>Sick<g ref="char:EOLhyphen"/>neſs of our Fleet,</hi> by which we have loſt about Six thou<g ref="char:EOLhyphen"/>ſand more, which is more then Two <hi>Dutch</hi> Wars uſed to coſt us. Neither are we to have, <hi>On pain of Death,</hi> one tittle of Truth from <hi>Ireland,</hi> for upon no leſs terms are any of <hi>Schomberg</hi>'s <hi>Camp</hi> to write News: But ſince the Birds of the Air have told us the illand periſhing Conditi<g ref="char:EOLhyphen"/>on of that Camp and that the Town began to believe it, more <hi>Inniskilling</hi> Victories were contrived, as was after the <hi>Scotch</hi> Battle, to drown Truth, and divert the Peo<g ref="char:EOLhyphen"/>ple from reflecting on the miſerable Condition they are brought into. But after all, thoſe <hi>Heroes</hi> are, in good Engliſh, but a pack of <hi>Cow-ſtealers,</hi> whoſe Valour conſiſt<g ref="char:EOLhyphen"/>ed in killing the <hi>
+                  <g ref="char:V">Ʋ</g>narmed</hi> Owners, the Poor Country Peo<g ref="char:EOLhyphen"/>ple: An Action that would have been called a <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſacre</hi> in the <hi>Iriſh;</hi> to Steal firſt, and then Murther to keep the Prize. To ſpeak freely, Sir, inventing of Stories, toge<g ref="char:EOLhyphen"/>ther with diſguiſing and concealing Truth, ſeems to me to be the Maſter Talents of your New Government; and, no doubt, came from the ſame Climate that did your <hi>Deliverer.</hi> By theſe honeſt Methods it was you laid your lawful King aſide, brought another in, and have ſupport<g ref="char:EOLhyphen"/>ed him againſt your Allegiance and Religion.</p>
+            <p n="5">5. The next thing that has induced me to change my Opinion, (as you are pleaſed to call it) is th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Train</hi> of
+<pb n="3" facs="tcp:58642:2"/>Miſchiefs that appears to follow this Revolotion. Firſt we are like to looſe our Government, not only by de<g ref="char:EOLhyphen"/>facing the Beauty of our Ancient Fabrick, but by breaking the very Conſtitution. Our Monarchs were ever So<g ref="char:EOLhyphen"/>vereign and Imperial, but we plainly ſee by almoſt e<g ref="char:EOLhyphen"/>very Motion that is made by a prevailing Party, we are to Dance after the Pipe of a Common-wealth, and our Kings to dwindle into Dukes of <hi>Venice;</hi> the meer Puppets of the People, and of a giddy one too which may bring us to change Governments as faſt as we do Faſhions, or as we did after <hi>Cromwel</hi>'s death.</p>
+            <p>But, Sir, That I confeſs which ſticks moſt with me is the <hi>Scandal</hi> and <hi>Change</hi> it brings to our <hi>Church.</hi> Of the <hi>Scandal</hi> I need only ſay, that too many of her pretended Sons have ſerv'd their turn of her Credit to ſatisfie their unjuſt Ambition and which would make you bluſh; they are the <hi>Pillars</hi> of your Reformation that are the <hi>Monu<g ref="char:EOLhyphen"/>ments of Ingratitude.</hi> A Cauſe cannot be bleſſed in the hands of ſuch Inſtruments. Look over the <hi>Sticklers</hi> in the <hi>Change,</hi> and you will find they have the largeſt part of it that were of our Church, and owed the King the greateſt Obligations. In the Fleet, <hi>Herbert, Ruſſel</hi> and <hi>Berkley.</hi> In the Army, <hi>Churchill, Duglas, Kirk,</hi> and Forty more; not to forget thoſe civil <hi>French Hugonets</hi> that he ſo Chari<g ref="char:EOLhyphen"/>tably relieved here, and are now gone to requite him in <hi>Ireland,</hi> under the greatful <hi>Schomberg,</hi> who began and ad<g ref="char:EOLhyphen"/>vanced his Fortunes in <hi>France</hi> by his Favour. In the Church, we have the <hi>Arch-Biſhop of York,</hi> the <hi>Biſhops of Winckeſter</hi> and St. <hi>Aſaph.</hi> the laſt of which was promoted by an Intereſt, now out of Credit, and ſo early acquainted with the Invaſion and the preſent Revolution that ſo ſoon as he was out of the <hi>Tower,</hi> he foretold it, tho, perhaps, his Pretentions to Proplietick Studies, or Enthuſiaſm ra<g ref="char:EOLhyphen"/>ther, might give a Man of his Gravity another Proſpect. Sir, theſe are <hi>Blots</hi> in our <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tclieons, <hi>Spots</hi> in our Feaſts; our reproach with all Mankind. They cannot pretend Religion for ſuch Immorality, nor Conſcience, but for want of it. It is, in ſhort, a <hi>Scandal</hi> that deſerves the pub<g ref="char:EOLhyphen"/>lic cenſure, as well as the diſlike of the Church. For my part becauſe I am a <hi>Proteſtant,</hi> I hate to proſtitute the Profeſſion to a Faction, and make it a civil Tool for Re<g ref="char:EOLhyphen"/>bellion.</p>
+            <p>And for the <hi>Change</hi> that is like to happen amongſt you, you hear I ſuppoſe of a <hi>Commiſſion</hi> to ſeveral Biſhops and other Clergy-men to alter our <hi>Worſhip,</hi> and for ought I know, our <hi>Creed;</hi> and indeed it is but neceſſary, ſince the preſent practices of ſome are not reconcileable with what our Church has all along profeſſed. A <hi>Comprehenſion</hi> is the leaſt we muſt expect, and of thoſe, who will not add much Sweetneſs to our Blood. Contrary humours in the ſame Body are dangerous, nor can our Church live long under a contradiction to her own Being. Sir, in this I am the more earneſt with you, becauſe of what has hap<g ref="char:EOLhyphen"/>pened to the <hi>Church of Scotland,</hi> and had like to have be<g ref="char:EOLhyphen"/>fallen ours the laſt Seſſion; and I am told is to be a good part of the buſineſs of this. We muſt be more <hi>Presby<g ref="char:EOLhyphen"/>terian,</hi> and our <hi>Sacramental Teſt</hi> muſt be abrogated, <hi>For all thoſe Religious to enter into the Government, that will not enter into our Churches!</hi> Popery only excepted; A ſtrange way to maintain the Church of <hi>England</hi> in all her Rights and Priviledges. <hi>Poor King James</hi> could not be ſo hap<g ref="char:EOLhyphen"/>pily underſtood. The <hi>Devil</hi> certainly owed theſe Men a ſpight, that turn'd out <hi>King James</hi> for doing that which they, honeſt Men, have already far out done. This for our Souls.</p>
+            <p>Our Bodies are, for ought I ſee, like to be in as bad a Plight; for after all our exceſſive hopes of happy times, <hi>We are both drained of the Money we had, and denyed the means of getting more,</hi> which muſt, in a little time, ruin us all, and which are the unavoidable conſequences of the War you have drawn upon the Nation, to gratifie your Luſt after a New King. I ſay, Sir, we are drained of what we have, for there is already given him to begin the the World with, but Four Taxes; <hi>viz.</hi> The <hi>Poll Money, Land Tax, Twelve Pence in the Pound,</hi> and the <hi>Additional Exciſe,</hi> which amounts to 2000000 for this Year, be<g ref="char:EOLhyphen"/>ſides the <hi>Ordinary Revenue,</hi> that is improved to about <hi>Two Millions</hi> more, in all 4000000 an extraordinary Sum for for the firſt Year. But which is yet more piercing, I hear, you are 1200000 <abbr>l.</abbr> in debt; nor is this all you deſire, or the Parliament is called to give. You muſt have, if I am well inform'd, beſides the <hi>Common Revenue,</hi> and this Debt, <hi>A Million more then you had the laſt Year,</hi> becauſe of your encreaſing your Forces, and that your Cuſtoms, <hi>&amp;c.</hi> will fall by the decay of Trade: which mounts the Charge of the following Year to <hi>Four Millions,</hi> beſides the <hi>Common Revenue</hi> over and above what I have mentioned towards this, there is lately granted a new Tax of 2<abbr>s</abbr> in the Pound, and ſince that an Addition of 1<abbr>s</abbr> in the Pound and ſome other <hi>Funds</hi> they are finding out for the ſupport of this unnatural quarrel for the next Year; and yet all this is not enough for our <hi>Debt</hi> and our <hi>next Years charge, by Two Millions;</hi> though we are not to be told ſo preſent<g ref="char:EOLhyphen"/>ly, leaſt the Kingdom fling off the Yoak at once; but to be dipp'd and engaged grandually, till it may be out of of our Power to ſave our ſelves.</p>
+            <p>In the ſecond place, Sir, that we are <hi>hindred</hi> from get<g ref="char:EOLhyphen"/>ting more Money is not leſs evident; for whilſt we lye under an <hi>Embargo</hi> at home, or which is as bad, our Men are preſt to <hi>Man our Fleet</hi> to fight the <hi>Dutch Quarred</hi> a<g ref="char:EOLhyphen"/>gainſt our own King, at <hi>Double Charges.</hi> The <hi>Dutch</hi> have ſent mighty Fleets, well Convoy'd, to all Parts of the World, to engroſs the Trade of it; and they that un<g ref="char:EOLhyphen"/>derſtand <hi>Commerce</hi> do know, That when Trade is once diverted from its uſual Channel, it is not eaſie for a Coun<g ref="char:EOLhyphen"/>try to recover it. But that we ſhould give them 600000 <abbr>l.</abbr> for the <hi>Perjury</hi> and <hi>Poverty</hi> we have brought upon our ſelves for their ſakes (as they have now the ingenuity to confeſs) is ſelling us a <hi>Dutch Bargain</hi> with a Vengeance. It is true, ſome ſay, 400000 <abbr>l.</abbr> of it belongs to the <hi>Prince</hi> of <hi>Orange,</hi> but that does not mend our Market, or Re<g ref="char:EOLhyphen"/>putation, to pay him ſo dear for coming hither to be a King, he might have been had at Cheaper rates, as I have been told. But this puts me in mind of one reaſon, beſides <hi>Ill Conduct,</hi> and <hi>Parliament Penſions,</hi> for want of Money; they ſay <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enting</hi> has ſent his Maſters 400000 <abbr>l.</abbr> with a <hi>Lump</hi> of his own for <hi>Holland,</hi> for fear of the worſt. However it be, let us never after this ridicule the <hi>Iriſh Genius,</hi> or the <hi>French Liberty;</hi> but confeſs our ſelves the moſt Fooliſh, Baſe and Inconſtant, of all People. And yet believe me, Sir, we ſee but much the better ſide of our Miſery neither; for before the next Summer is over, though <hi>King James</hi> and the <hi>French King</hi> ſhould not viſit us in <hi>England (which is more then I dare enſure at any rate)</hi> the <hi>Cryes</hi> and <hi>Rage</hi> of the numerous Poor, of almoſt all Trades, will be too many for our <hi>New Polititians;</hi> and the <hi>Rabble</hi> will every where Reign over others when they have nothing of their own to quiet them. <hi>Work</hi> or <hi>Plunder</hi> is the beſt of their Caſe: No Work where there is no
+<pb n="4" facs="tcp:58642:3" rendition="simple:additions"/>vent for it, and Starve they will not whilſt others have it: The Conſequence is obvious, and needs no comment. This is a way of <hi>Beating us without Fighting;</hi> for this beats our Pockets, which ſhould ſupport our Arms to beat our Enemies: And this Year has given us ſuch melancholy Proofs of their Skill and Power this way, that the encreaſe of their Strength by the <hi>Conjuction of the Algireens?</hi> which they will bring into our Channel very ſpeedily, together with the vaſt <hi>Naval Preparations</hi> now in <hi>France;</hi> the <hi>Bountiful Gift</hi> of both Seculars and Regulars in King <hi>James</hi>'s Favour, without one negative, being near <hi>Four millions and a half</hi> of our Money; the inclinations of the preſent <hi>Pope;</hi> his <hi>Influences</hi> on the <hi>Confederacy;</hi> their known <hi>Poverty;</hi> the diſpoſition of diverſe Princes and States ought to encreaſe our fears to a deſpair of ever ſeeing a quiet State in <hi>England</hi> till the King (as the Song has it) <hi>Enjoys his Own again.</hi>
+            </p>
+            <p>But if we had reaſon to think better of our Caſe, we have ſeen enough to tell us we are like to be govern'd by a <hi>Strange Army,</hi> as well as a <hi>Strange King;</hi> for <hi>French, Dutch, Danes,</hi> or any Thing that is Foreign, has the <hi>Pre<g ref="char:EOLhyphen"/>ference</hi> to <hi>Engliſh-men.</hi> They muſt not be employed, and when they are, we ſee how little they are <hi>trusted,</hi> or pay'd at home or abroad: So that it is plain, <hi>King William</hi> will not confide in the Men that have quitted their Alle<g ref="char:EOLhyphen"/>giance to advance him: Is it that we have loſt our Inte<g ref="char:EOLhyphen"/>grity, or that he ſees we begin to have the <hi>Grace</hi> to re<g ref="char:EOLhyphen"/>pent? God grant it before it is too late! Shall I tell you here of the crys of the Country under the burden of your <hi>Dutch Souldiers,</hi> or <hi>Saviours,</hi> if you pleaſe? They take what they will, and pay what they will, with <hi>Oaths</hi> and <hi>Blows</hi> into the bargain. The Army of <hi>King James,</hi> in his whole Reign, never committed ſo many Riots, Batteries and baſe Murthers, and your <hi>Dutch-men</hi> in a Years time. Among the reſt, think upon that Action of running their Swords <hi>through a poor Child in a Cradle,</hi> to be revenged of the Mother, for hindring them from <hi>Killing the Father.</hi>
+            </p>
+            <p>So the <hi>Danes</hi> lately in the <hi>North,</hi> in a drunken ſit, murther'd their <hi>Officer,</hi> taking him for their Landlord. Their other <hi>Ri<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi> are ſo frequent and extravagant, that the nature of our Saviours ſhows us what ſort of Salvati<g ref="char:EOLhyphen"/>on we are to hope for, or what are the means and inſtru<g ref="char:EOLhyphen"/>ments, our <hi>Great Saviour</hi> makes uſe of for our deliverance.</p>
+            <p>Sir, You will ſee that we have <hi>lost our Country</hi> with our King: For the Man that you have put in his Place, will very quickly put <hi>Foreigners</hi> into yours; they ſhall Rule over you.</p>
+            <p>And to let you ſee I do not ſpeak without Book. I am very well affor'd there are 20000 <hi>Foreigners</hi> more gone for, which will make up an <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 40000 Strangers,</hi> there are alſo 24 <hi>Sail of D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nes</hi> and <hi>Swe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds Men of War,</hi> hired into the Service of this Government, which with <hi>Sixty Sail of Dutch <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not War,</hi> are to be the <hi>Navy</hi> that muſt <hi>Guard the Rights and C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> of the People of <hi>England</hi> next Year; for our <hi>E<gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>, Seamen</hi> are <hi>Su<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ed</hi> with this Prince, as the <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</hi> and for that reaſon, are to be ſent <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on Service of leſer truſt and mo<g ref="char:EOLhyphen"/>ment; but the true meaning and conſequence of this is we <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, for He ſhall call them in for your Service, as he will tell you, but he still keep them here for his own: And in <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> become a <hi>Conqueſt</hi> to him in a ſhort time, if you receive not your King again.</p>
+            <p>And here ſpare me a Word or two in point of <hi>Prudence.</hi> Is not <hi>King James</hi> at the Head of a great Army, ſuch an one as your <hi>Schomberg</hi> dare not Fight, for all he was to be Maſter of all <hi>Ireland</hi> by <hi>Michaelmas,</hi> day? Has he not now a better <hi>Fleet</hi> than yours to wait upon him to diſtreſs <hi>Schomberg,</hi> and to bring him where he pleaſes to attack you here, leaving your Trade to the care of his <hi>Priva<g ref="char:EOLhyphen"/>teers and Algireens</hi> And is it not as evident that <hi>Scot<g ref="char:EOLhyphen"/>land</hi> is his upon a ſmall Succor the moment he ſends it; and <hi>England</hi> to a great degree, by <hi>Taxes, loſs of Trade, a rui<g ref="char:EOLhyphen"/>nous War and your inteſtine Faction and Animoſities?</hi> Could not the moſt valourous Army, and beſt Diſciplined in <hi>Europe,</hi> commanded by <hi>Diligent, Cunning</hi> and <hi>Stout</hi> Men, as ever Uſurped a Throne, keep out <hi>King Charles</hi> the Second, <hi>That had no Army, or Navy to help him,</hi> and can you imagin this <hi>Slow</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nactive Creature</hi> will be able to do it, that wants <hi>Qualifications,</hi> as well as <hi>Title</hi> to quiet and ſettle the Kingdom, and ſecure his Abbettors? Open your Eyes, I beſeech you, and ſee what your Deliverer has done for you! even he who was to Conquer <hi>France</hi> by laſt Midſummer, has got no farther yet then <hi>Hampton-Court and New-Market.</hi> And inſtead of beating the <hi>French,</hi> They, even they, the hated, the deſpiſed <hi>French,</hi> rid <hi>Al<g ref="char:EOLhyphen"/>miral over us in our own Seas:</hi> Such a Revenge of your Scorns as makes you truly contemptible. That a Nation that hardly ever made a <hi>Ballance</hi> between you and the <hi>Dutch</hi> in any War, which you never feared but under your own King, and ſlighted under this <hi>Inchanted Knight,</hi> ſhould become your Match and Terrour, and the <hi>Dutch</hi> of your ſides too. Where are your Heads, or your Hearts? What Conduct, what Valour is this? A fine Summers Expedi<g ref="char:EOLhyphen"/>tion! An admirable Account for the <hi>Parliament,</hi> and to the Kingdom for their Money! Behold the <hi>Fruit</hi> of your Experiment, the <hi>Fortune</hi> of your Change, the <hi>Succeſs</hi> of your New King, and your <hi>Gain</hi> by his Skill and Arms! I ſay your Intereſt lyes, <hi>Two to One,</hi> on the ſide of your Duty, and you muſt be <hi>Mad,</hi> as well impious to continue your Diſallegiance. To conclude, Sir, let it move you and your Friends a little, to conſider how cruelly you have uſed your Poor King; what Difficulties you give him; <hi>And for what, and for whom</hi> you do it: and ſave him all further trouble; which may prevent <hi>Blood,</hi> obtain <hi>Grace,</hi> and perhaps give <hi>Peace</hi> to <hi>Europe,</hi> to be ſure return <hi>Trade</hi> and <hi>Strength</hi> to <hi>England.</hi> This your <hi>Country</hi> your <hi>Children,</hi> your <hi>Conſciences</hi> (if you will but hear them) call aloud for. Hear them therefore, better late than never; and pray, let it not be <hi>too late</hi> for the Public, nor for your Self.</p>
+            <p>Thus, Sir, you ſee. I have been very free with you, as a Man of Conſcience ought to be, when ſo good an Oc<g ref="char:EOLhyphen"/>caſion is offered, as you were pleaſed to give me in our laſt Diſcourſe; and I with withal my Heart, that <hi>theſe reaſons</hi> may have the ſame effect upon you they have had with me, that while <hi>you can</hi> for believe me time grows very precious) you may return to the Duty you owe your King, who after all the d<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mal Stories ſome Mens Intereſt makes them tell us of his condition, will find a <hi>Fatted Calf,</hi> with which to Feaſt all his returning Prodi<g ref="char:EOLhyphen"/>gals.</p>
+            <closer>
+               <signed>
+                  <hi>I am Sir, Y<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. &amp;.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
